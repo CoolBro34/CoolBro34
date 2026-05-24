@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @CoolBro34
-- 👀 I’m interested in Space
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Nothing rn
-- 📫 How to reach me ... Don't
+Interested in Space, Aerospace Engineering, and Flight
+Budding Photographer
+Working to make the world a better place
 
 <!---
 CoolBro34/CoolBro34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
